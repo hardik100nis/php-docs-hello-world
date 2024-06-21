@@ -1,7 +1,7 @@
-<input type="text" name="origin_street" placeholder="Origin street" style="display: none;">
-<input type="text" name="origin_state" placeholder="Origin state" style="display: none;">
-<input type="text" name="origin_city" placeholder="Origin city" style="display: none;">
-<input type="text" name="origin_zip_code" placeholder="Origin zip code" style="display: none;">
+<input type="text" name="origin_street" placeholder="Origin street">
+<input type="text" name="origin_state" placeholder="Origin state">
+<input type="text" name="origin_city" placeholder="Origin city">
+<input type="text" name="origin_zip_code" placeholder="Origin zip code">
 <script type="text/javascript"
 src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCZivnuCLOeof1YXnpv2jFGAbHZAH
 he1mI&libraries=places"></script>
